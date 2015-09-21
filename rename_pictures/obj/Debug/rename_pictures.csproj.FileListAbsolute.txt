@@ -1,0 +1,6 @@
+C:\Users\jcritchfield\Desktop\Chromebook Manager\rename_pictures\rename_pictures\bin\Debug\rename_pictures.exe.config
+C:\Users\jcritchfield\Desktop\Chromebook Manager\rename_pictures\rename_pictures\bin\Debug\rename_pictures.exe
+C:\Users\jcritchfield\Desktop\Chromebook Manager\rename_pictures\rename_pictures\bin\Debug\rename_pictures.pdb
+C:\Users\jcritchfield\Desktop\Chromebook Manager\rename_pictures\rename_pictures\obj\Debug\rename_pictures.csprojResolveAssemblyReference.cache
+C:\Users\jcritchfield\Desktop\Chromebook Manager\rename_pictures\rename_pictures\obj\Debug\rename_pictures.exe
+C:\Users\jcritchfield\Desktop\Chromebook Manager\rename_pictures\rename_pictures\obj\Debug\rename_pictures.pdb
